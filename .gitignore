@@ -6,3 +6,6 @@ coverage
 *.log
 .turbo
 .cache
+
+# Generated Prisma clients (run: npm run prisma:generate)
+services/*/src/generated/
