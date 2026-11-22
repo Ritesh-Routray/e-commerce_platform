@@ -165,9 +165,9 @@ Register:
 ```graphql
 mutation Register {
   register(input: {
-    email: "deepak@example.com"
+    email: "ritesh@example.com"
     password: "Password123"
-    name: "Deepak"
+    name: "Ritesh"
   }) {
     accessToken
     refreshToken
@@ -181,7 +181,7 @@ Login:
 
 ```graphql
 mutation Login {
-  login(email: "deepak@example.com", password: "Password123") {
+  login(email: "ritesh@example.com", password: "Password123") {
     accessToken
     refreshToken
     userId
@@ -370,12 +370,5 @@ ecommerce-microservices/
 
 ## Author
 
-- Deepak Pathak
-- Instagram: https://www.instagram.com/deepakpathak513/
-- Facebook: https://www.facebook.com/deepakpathak1991/
-- LinkedIn: https://www.linkedin.com/in/deepak~pathak/
-
-## Changelog
-
-- Renamed project heading and added this changelog section.
-- Repository history reset; this is the initial commit of the customized fork.
+- Ritesh Routray
+- GitHub: https://github.com/Ritesh-Routray

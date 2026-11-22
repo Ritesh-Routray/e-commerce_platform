@@ -60,9 +60,9 @@ Variables:
 ```json
 {
   "input": {
-    "email": "deepak@example.com",
+    "email": "ritesh@example.com",
     "password": "Password123",
-    "name": "Deepak"
+    "name": "Ritesh"
   }
 }
 ```
@@ -86,7 +86,7 @@ Variables:
 
 ```json
 {
-  "email": "deepak@example.com",
+  "email": "ritesh@example.com",
   "password": "Password123"
 }
 ```
