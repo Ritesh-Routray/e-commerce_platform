@@ -9,7 +9,7 @@
   "containerDefinitions": [
     {
       "name": "gateway",
-      "image": "ghcr.io/owner/repo/gateway:latest",
+      "image": "ghcr.io/ritesh-routray/e-commerce_platform/gateway:latest",
       "portMappings": [
         {
           "containerPort": 4000,

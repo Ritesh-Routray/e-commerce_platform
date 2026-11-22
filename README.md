@@ -343,7 +343,7 @@ You should add separate deployment stages for the REST services or package them 
 ## Project Structure
 
 ```text
-ecommerce-microservices/
+e-commerce_platform/
 ├── gateway/
 ├── services/
 │   ├── user-service/

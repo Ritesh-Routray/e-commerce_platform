@@ -1,5 +1,7 @@
 {
-  "name": "ecommerce-microservices",
+  "name": "e-commerce-platform",
+  "author": "Ritesh Routray",
+  "repository": "https://github.com/Ritesh-Routray/e-commerce_platform",
   "private": true,
   "version": "1.0.0",
   "workspaces": [
